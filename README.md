@@ -1,2 +1,2 @@
 # HouseholdUnions
-A project to test the feasibility of a "household union."
+A project to test the feasibility of "household unions."
